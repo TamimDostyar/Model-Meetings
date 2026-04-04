@@ -8,7 +8,7 @@ You will need to get your ollama models pulled in your machine and and get the a
 Ensure you have Ollama installed.
 
 Ollama: <b>`https://docs.ollama.com/api/introduction`</b><br>
-Groq: `https://console.groq.com/docs/overview`
+Groq: <b>`https://console.groq.com/docs/overview`<b><br>
 
 
 Create your virtual enviroments and install the libraries. Once done, then ensure you have all the api keys with model names added in the .env. Below are a few steps you may initiate to run the sopftware.
