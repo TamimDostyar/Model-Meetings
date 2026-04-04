@@ -7,7 +7,7 @@ You can use any models but I would recommend using something large for leaders a
 You will need to get your ollama models pulled in your machine and and get the api keys - for reference please review `ex-env.sh`.
 Ensure you have Ollama installed.
 
-Ollama: <b>`https://docs.ollama.com/api/introduction`</b>
+Ollama: <b>`https://docs.ollama.com/api/introduction`</b><br>
 Groq: `https://console.groq.com/docs/overview`
 
 
