@@ -5,8 +5,8 @@ from ollama_m import Leadership
 
 TOPIC = (
     """
-    Alright team - unfortunately budget constraints have forced us to
-    lay off and unfortunately we no longer have junior engineers on the team. Do we have juniors here today?
+    Stocks are down 2% today, and we need to discuss our strategy for the next quarter.
+    
     """
 )
 
